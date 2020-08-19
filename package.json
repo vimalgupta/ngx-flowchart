@@ -1,6 +1,7 @@
 {
-  "name": "ngx-flowchart-demo",
-  "version": "0.0.0",
+  "name": "ngx-flowchart-tv",
+  "version": "1.0.0",
+  "description": "ngx flowchart", 
   "scripts": {
     "ng": "ng",
     "start": "ng serve --host 0.0.0.0 --open --port 4300",
@@ -9,10 +10,16 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
-  "private": true,
   "peerDependencies": {
     "jquery": "^3.5.1"
   },
+  "author": "Vimal Gupta <vimal.cdac@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vimalgupta/ngx-flowchart"
+  },
+
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.901.6",
     "@angular-devkit/build-ng-packagr": "~0.901.6",
